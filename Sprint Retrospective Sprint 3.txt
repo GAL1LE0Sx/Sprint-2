@@ -1,0 +1,13 @@
+Sprint Retrospective: Sprint 3
+
+Funcionou bem:
+As escolhas para histórias selecionadas, ID 1 e ID 3, isso colocou o projeto com o alvo de uma ação específica.
+
+Não funcionou bem:
+Poderia ser adicionadas mais ID.
+E ser adicionado manualmente.
+
+Sugestão de melhorias: 
+
+Adicionar mais ID, para que a emersão seja mais abrangente. 
+Não colocar para ser adicionado manualmente, com intuito de automatizar o projeto. 
