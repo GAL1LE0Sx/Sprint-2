@@ -1,0 +1,18 @@
+git História ID: 1
+
+Descrição: Mudar a cor dos nomes do veículos na página index para azul
+
+Esforço estimado: 1 hora e 30 minutos
+
+Observações: Editar o HTML Manualmente 
+
+
+História ID: 3
+
+Descrição: Mudar para que os links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha
+navegação no portal.
+
+Esforço estimado: 2 horas e 30 meia.
+
+Observações: Editar o HTML Manualmente 
+
